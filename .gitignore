@@ -36,4 +36,4 @@ yarn-error.log*
 
 .env
 package-lock.json
-styles/globals.css
+src/styles/globals.css
